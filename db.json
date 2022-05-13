@@ -1,4 +1,28 @@
 {
+    "cake":[
+        {
+            "name":"Half Chocolate Half Vanilla Cake",
+            "rate":{
+                        "rating":5,
+                        "reviews":356
+                    },
+            "price":240,
+            "url":"https://raw.githubusercontent.com/masai-course/mohd_fw13_447/master/unit-6/project/fronend/src/Components/images/cake/vanilla/choco-vanilla-2-730.jpg",
+            "category":"vanilla"
+
+        },
+        {
+            "name":"Vanilla Cake",
+            "rate":{
+                        "rating":5,
+                        "reviews":356
+                    },
+            "price":240,
+            "url":"https://raw.githubusercontent.com/masai-course/mohd_fw13_447/master/unit-6/project/fronend/src/Components/images/cake/vanilla/vanilla-1-799.jpg",
+            "category":"vanilla"
+
+        }
+    ],
     "countries":[],
     "cities":[]
 }
